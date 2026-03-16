@@ -2,7 +2,7 @@
 
 ### A passionate MERN Stack Developer from India
 
-🌐 Portfolio: https://portfolio-sigma-orcin-50.vercel.app/
+🌐 Portfolio: https://priyadarshan-dev-portfolio.vercel.app/
 
 📧 Email: priyadarshanwork24@gmail.com
 (Open to collaboration, projects, and opportunities)
