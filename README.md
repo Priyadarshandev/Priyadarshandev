@@ -1,16 +1,31 @@
-# 💫 Hi 👋, I'm Priyadarshan
-**A passionate Frontend Developer | React.js | JavaScript from India 🇮🇳**
+# Hi 👋, I'm Priyadarshan Kumar
 
-📧 **Email:** priyadarshanwork24@gmail.com  
+### A passionate MERN Stack Developer from India
+
+🌐 Portfolio: https://portfolio-sigma-orcin-50.vercel.app/
+
+📧 Email: priyadarshanwork24@gmail.com
 (Open to collaboration, projects, and opportunities)
 
-- 🔭 **Currently working on:** Real-world frontend projects using React  
-- 🌱 **Currently learning:** Advanced JavaScript, React hooks, APIs  
-- 👯 **Open to collaborate on:** Frontend and beginner-friendly open-source projects  
-- 🤔 **Looking for help with:** Code reviews and best practices  
-- 💬 **Ask me about:** Frontend basics, JavaScript, React  
-- 😄 **Pronouns:** He / Him  
-- ⚡ **Fun fact:** I believe consistency matters more than talent 🚀
+💻 Currently working on: Real-world full stack projects using the MERN Stack  
+
+📚 Currently learning: Advanced JavaScript, Backend Architecture, APIs  
+
+🤝 Open to collaborate on: MERN stack projects and beginner-friendly open-source  
+
+🛠 Tech Stack:
+- Frontend: React.js, JavaScript, HTML, CSS, Tailwind  
+- Backend: Node.js, Express.js  
+- Database: MongoDB  
+- Tools: Git, GitHub, Vercel, VS Code  
+
+❓ Ask me about: MERN Stack, JavaScript, React, Web Development  
+
+🎯 Goal: To build scalable web applications and work on impactful tech products  
+
+😄 Pronouns: He / Him  
+
+⚡ Fun fact: I believe consistency matters more than talent
   
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Priyadarshandev&theme=flat&no-frame=true&no-bg=true&margin-w=8)
